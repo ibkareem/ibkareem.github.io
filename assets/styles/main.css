@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Quicksand:wght@300&display=swap');
+
+.head{
+  display: flex;
+  margin-top: 2%
+}
+
+
+#freepik_stories-computer-troubleshooting, #freepik_stories-javascript-frameworks, #freepik_stories-recipe-book{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+}
+
+#section-header{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  margin-top: 8%
+}
+
+#section-body{
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
